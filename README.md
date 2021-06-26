@@ -9,6 +9,7 @@ The user will find the runtimes for "Run All Stocks Analysis" for both years to 
 ### Results below:
 ![](Resources/VBA_Challenge_2017.PNG)
 **Runtime for refactored script for the year 2017.**
+
 ![](Resources/VBA_Challenge_2018.PNG)
 **Runtime for refactored script for the year 2018.**
 
