@@ -4,10 +4,12 @@ To Determine if our script runs more efficiently when we refactor our code from 
 
 ## Analysis and Challenges
 
-![](Resources/VBA_Challenge_2017.png)
+![](Resources/VBA_Challenge_2017.PNG)
+
 Displays runtime for refactored script for the year 2017.
 
-![](Resources/VBA_Challenge_2018.png)
+![](Resources/VBA_Challenge_2018.PNG)
+
 Displays runtime for refactored script for the year 2018.
 
 
